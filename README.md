@@ -1,4 +1,4 @@
-# OpPlan_Template
-Template for future OpPlans 
+# OpPlan Template
 
-test test test
+## Simple template for future OpPlans
+
